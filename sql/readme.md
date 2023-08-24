@@ -1,1 +1,2 @@
-Know how sql?
+# Know how sql relational database?
+
